@@ -3,7 +3,7 @@
   "packageRules": [
     {
       "packagePatterns": ["*"],
-      "excludePackagePatterns": ["^@bbc", "^\\.github/workflows/[^/]+.ya?ml$"],
+      "excludePackagePatterns": ["^@bbc", "^\.github\/workflows\/[^/]+\.ya?ml$"],
       "updateTypes": ["minor", "patch"],
       "groupName": "all 3rd party non-major dependencies",
       "groupSlug": "all-minor-patch"
@@ -15,7 +15,7 @@
       "groupSlug": "psammead-minor-patch"
     },
     {
-      "packagePatterns": ["^\\.github/workflows/[^/]+.ya?ml$"],
+      "packagePatterns": ["^\.github\/workflows\/[^/]+\.ya?ml$"],
       "groupName": "github action updates",
       "updateTypes": ["minor", "patch"],
       "groupSlug": "github-actions"
