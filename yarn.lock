@@ -1120,13 +1120,13 @@
     "@bbc/gel-foundations" "^6.0.0"
     "@bbc/psammead-visually-hidden-text" "^2.0.1"
 
-"@bbc/psammead-bulleted-list@3.0.5":
-  version "3.0.5"
-  resolved "https://registry.yarnpkg.com/@bbc/psammead-bulleted-list/-/psammead-bulleted-list-3.0.5.tgz#8591af8dfcad38393c686a88cf3a076245451dcc"
-  integrity sha512-jnZ6vREcRbGO0AdT6ZUm5lhbYFtSRp/44TzxbjCNAlYhcrO2M7z4XOaP/45s5Faf13Zpla9sz+BGCGyiLWN9zQ==
+"@bbc/psammead-bulleted-list@3.0.8":
+  version "3.0.8"
+  resolved "https://registry.yarnpkg.com/@bbc/psammead-bulleted-list/-/psammead-bulleted-list-3.0.8.tgz#e2b7e9a7ad7784b53e44ee0220cbd9cb9c254b3d"
+  integrity sha512-nec8DAgfyWVtlPRt0isuaTZomJ09IfkIQ23SfEGkzRHlDP1E3nvHhnyGnnj9xPc3HaSxizUT0/O8aYI5UUtBxA==
   dependencies:
     "@bbc/gel-foundations" "^6.0.0"
-    "@bbc/psammead-styles" "^7.0.1"
+    "@bbc/psammead-styles" "^7.0.3"
 
 "@bbc/psammead-bulletin@^5.0.13":
   version "5.0.19"
@@ -1140,13 +1140,13 @@
     "@bbc/psammead-styles" "^7.0.3"
     "@bbc/psammead-visually-hidden-text" "^2.0.1"
 
-"@bbc/psammead-byline@3.0.5":
-  version "3.0.5"
-  resolved "https://registry.yarnpkg.com/@bbc/psammead-byline/-/psammead-byline-3.0.5.tgz#c5c143d7dc1fb404ba0a421558bd20149e7f8464"
-  integrity sha512-muA1/bXbp9V4CDyAR1AKZnv8PHjyo2CIfXAer8sMfh1poNqwuHdjwmAzWL4bsqDx/djzREoA2lyZJfyA6wvj6A==
+"@bbc/psammead-byline@3.0.8":
+  version "3.0.8"
+  resolved "https://registry.yarnpkg.com/@bbc/psammead-byline/-/psammead-byline-3.0.8.tgz#19c10cca65a7eec88db0ec192cbf2dfa01a0ce2e"
+  integrity sha512-pURP2q9+tS+WjalzaTTKQToh6cBeLBarV7pup+OdxOaOEhRaZIGYDAwJzLH2lEU8ddi3NOlhsFqH+x6M9RObPQ==
   dependencies:
     "@bbc/gel-foundations" "^6.0.0"
-    "@bbc/psammead-styles" "^7.0.1"
+    "@bbc/psammead-styles" "^7.0.3"
 
 "@bbc/psammead-calendars@^2.0.19":
   version "2.0.19"
@@ -1398,10 +1398,10 @@
     "@bbc/gel-foundations" "^6.0.0"
     "@bbc/psammead-styles" "^7.0.3"
 
-"@bbc/psammead-storybook-helpers@9.0.6":
-  version "9.0.6"
-  resolved "https://registry.yarnpkg.com/@bbc/psammead-storybook-helpers/-/psammead-storybook-helpers-9.0.6.tgz#ac0a42450310634e3026982da5762adba6f72754"
-  integrity sha512-91CC9fXQrYy3CCRhE5YMuOnwru6X9JdB5rUbDgJR+N52SZlYgCZhi/XghfKZbTgH4c3rBKOk07tqEL12cV/5Tw==
+"@bbc/psammead-storybook-helpers@9.0.7":
+  version "9.0.7"
+  resolved "https://registry.yarnpkg.com/@bbc/psammead-storybook-helpers/-/psammead-storybook-helpers-9.0.7.tgz#1ab04672026c2c16e5bfaabf2344c4f8748a45a9"
+  integrity sha512-SppUzTQh9MYz4ifZ2XUQ/hgI1UPD5M4KOq024LKLdsw04/JlbzCsyPC0KXLYoeAGm6yt9xFUFGmPreIcUZyGKA==
   dependencies:
     "@bbc/gel-foundations" "^6.0.0"
     react-helmet "^6.0.0"
