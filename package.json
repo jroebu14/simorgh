@@ -7,6 +7,8 @@
     "axios": "0.21.1"
   },
   "scripts": {
+    "preci": "rm -rf node_modules",
+    "ci": "yarn install --frozen-lockfile",
     "preinstall": "[ \"$npm_config_refer\" != \"ci\" ] || exit 0",
     "amp:validate": "wait-on -t 20000 http://localhost:7080/status && node ./scripts/ampHtmlValidator/cli.js",
     "bbcA11y": "wait-on -t 20000 http://localhost:7080/status && bbc-a11y",
