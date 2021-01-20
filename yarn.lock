@@ -1411,10 +1411,10 @@
   resolved "https://registry.yarnpkg.com/@bbc/psammead-styles/-/psammead-styles-7.2.0.tgz#bc6f5227f1ee3033fbe5fd33b0583546be1c2480"
   integrity sha512-Tvshia3KDj1hCcFPWBkC5qagCTVzOSL15GF+vYHAFEhoFyjGAWcdpktVhvbhl8dYU5cP4H18ZTscuTZXuT/Uug==
 
-"@bbc/psammead-test-helpers@5.0.2":
-  version "5.0.2"
-  resolved "https://registry.yarnpkg.com/@bbc/psammead-test-helpers/-/psammead-test-helpers-5.0.2.tgz#141497ba5e0b588e04e09fbac9e624e5c08c9e75"
-  integrity sha512-Hj1EtMWr9m1d7jY/bPN+k913j3xDMs6FGrro60pUlMy8ULH451FlRFZctuULtpksBo6MqcE/Q5jQScLpWCVpEg==
+"@bbc/psammead-test-helpers@6.0.0":
+  version "6.0.0"
+  resolved "https://registry.yarnpkg.com/@bbc/psammead-test-helpers/-/psammead-test-helpers-6.0.0.tgz#1bd5403cf9424bfec6425045d34ddf965c0fb790"
+  integrity sha512-cyBUyJNY0APTynCxyE3guGDemeVguxsW3V9k6pu1bwHgum0mmgHxZJ9egrNXRrUizHGIpj4N9SW4Bj8CVOKZ8Q==
 
 "@bbc/psammead-timestamp-container@^5.0.15", "@bbc/psammead-timestamp-container@^5.0.17":
   version "5.0.17"
