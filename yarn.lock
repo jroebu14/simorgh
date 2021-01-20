@@ -1302,14 +1302,14 @@
     "@bbc/psammead-grid" "^3.0.10"
     "@bbc/psammead-styles" "^7.0.3"
 
-"@bbc/psammead-navigation@^8.0.8":
-  version "8.0.9"
-  resolved "https://registry.yarnpkg.com/@bbc/psammead-navigation/-/psammead-navigation-8.0.9.tgz#bbd297e59b61887931a715eae54709cdcb03a5c6"
-  integrity sha512-y8Z91SjSq3fo4rWhEGeKTj3IeDxy8kTVQDBx8Bkrtsa06M6+go8xhytqPJTpJq10rvJeNfqIVjvAtEmx9zqC2w==
+"@bbc/psammead-navigation@^9.0.0":
+  version "9.0.2"
+  resolved "https://registry.yarnpkg.com/@bbc/psammead-navigation/-/psammead-navigation-9.0.2.tgz#f02d5291197ec29be6b195f3e73f72ff67bd0848"
+  integrity sha512-e6NUw/UKgOT1CWhV/jfHs9TsaYjnw2fd/K4wprG3DHRah7u8yKfgJMY6Y/yDTmhD0eiBcciQejYd9B0+MoNonQ==
   dependencies:
     "@bbc/gel-foundations" "^6.0.0"
     "@bbc/psammead-assets" "^3.1.2"
-    "@bbc/psammead-styles" "^7.0.2"
+    "@bbc/psammead-styles" "^7.0.3"
     "@bbc/psammead-visually-hidden-text" "^2.0.1"
 
 "@bbc/psammead-paragraph@^4.0.5":
@@ -1406,7 +1406,7 @@
     "@bbc/gel-foundations" "^6.0.0"
     react-helmet "^6.0.0"
 
-"@bbc/psammead-styles@^7.0.1", "@bbc/psammead-styles@^7.0.2", "@bbc/psammead-styles@^7.0.3":
+"@bbc/psammead-styles@^7.0.1", "@bbc/psammead-styles@^7.0.3":
   version "7.2.0"
   resolved "https://registry.yarnpkg.com/@bbc/psammead-styles/-/psammead-styles-7.2.0.tgz#bc6f5227f1ee3033fbe5fd33b0583546be1c2480"
   integrity sha512-Tvshia3KDj1hCcFPWBkC5qagCTVzOSL15GF+vYHAFEhoFyjGAWcdpktVhvbhl8dYU5cP4H18ZTscuTZXuT/Uug==
