@@ -1087,10 +1087,10 @@
     colors "^1.1.2"
     license-checker "^8.0.4"
 
-"@bbc/gel-foundations@^6.0.0":
-  version "6.0.0"
-  resolved "https://registry.yarnpkg.com/@bbc/gel-foundations/-/gel-foundations-6.0.0.tgz#834d73c6cf00de8e931c51b0fcb30289f723b56e"
-  integrity sha512-4J5bASYmI5i7tniJkDpN7ZDlWHgZEvS4Ij4CEiVSQ1dz9zGzoWu8A3yBJ5cyAs2MTX97ZgHV8ZDR9les9C9CcQ==
+"@bbc/gel-foundations@^6.0.0", "@bbc/gel-foundations@^6.1.0":
+  version "6.1.0"
+  resolved "https://registry.yarnpkg.com/@bbc/gel-foundations/-/gel-foundations-6.1.0.tgz#e502376a1aae8fd97514b5a8a256660da1198d2a"
+  integrity sha512-bWzYYMe4hrN/EUzr3rEr1psBXJsW3SAXceVVwegY48vOqdfKjwJejOd/Q6u+Ge3GOCR9ZSIailOQmi1174SUrQ==
 
 "@bbc/moment-timezone-include@^1.1.4":
   version "1.1.4"
@@ -1219,13 +1219,13 @@
     "@bbc/gel-foundations" "^6.0.0"
     "@bbc/psammead-styles" "^7.0.3"
 
-"@bbc/psammead-heading-index@^3.0.5":
-  version "3.0.8"
-  resolved "https://registry.yarnpkg.com/@bbc/psammead-heading-index/-/psammead-heading-index-3.0.8.tgz#f709ea4fcfd68ab30c6a461794b6c06196abd3bc"
-  integrity sha512-fVgJ3ZFjogEWJHNhlpsDfeHFV7Tvl/90qrEvSrKRzcn/hzcZZCtzK9Va/ozoYbRiA6F98DA13CgaACArJ0COwQ==
+"@bbc/psammead-heading-index@^3.0.10":
+  version "3.0.10"
+  resolved "https://registry.yarnpkg.com/@bbc/psammead-heading-index/-/psammead-heading-index-3.0.10.tgz#eb6e66de590b5de3c768480a56f4c9a49b44b74f"
+  integrity sha512-QgsxabxL1r4LwTxxuN/dyKd00NWcPF43vHyMv/9dvNOQAecp5O9p/cXPmBEcee4U5TyejNTWMdlOYL+XB04DkQ==
   dependencies:
-    "@bbc/gel-foundations" "^6.0.0"
-    "@bbc/psammead-styles" "^7.0.3"
+    "@bbc/gel-foundations" "^6.1.0"
+    "@bbc/psammead-styles" "^7.2.0"
 
 "@bbc/psammead-headings@^5.0.5":
   version "5.0.8"
@@ -1406,7 +1406,7 @@
     "@bbc/gel-foundations" "^6.0.0"
     react-helmet "^6.0.0"
 
-"@bbc/psammead-styles@^7.0.1", "@bbc/psammead-styles@^7.0.2", "@bbc/psammead-styles@^7.0.3":
+"@bbc/psammead-styles@^7.0.1", "@bbc/psammead-styles@^7.0.2", "@bbc/psammead-styles@^7.0.3", "@bbc/psammead-styles@^7.2.0":
   version "7.2.0"
   resolved "https://registry.yarnpkg.com/@bbc/psammead-styles/-/psammead-styles-7.2.0.tgz#bc6f5227f1ee3033fbe5fd33b0583546be1c2480"
   integrity sha512-Tvshia3KDj1hCcFPWBkC5qagCTVzOSL15GF+vYHAFEhoFyjGAWcdpktVhvbhl8dYU5cP4H18ZTscuTZXuT/Uug==
